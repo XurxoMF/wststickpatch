@@ -1,0 +1,56 @@
+[
+  {
+    "file": "game:itemtypes/resource/stick",
+    "op": "add",
+    "path": "/storageFlags",
+    "value": 257,
+    "side": "server",
+    "dependsOn": [
+      {
+        "modid": "wildcrafttree"
+      },
+      {
+        "modid": "toolsmith"
+      },
+      {
+        "modid": "manualtoolcrafting",
+        "invert": true
+      }
+    ]
+  },
+  {
+    "file": "game:itemtypes/resource/stick",
+    "op": "add",
+    "path": "/storageFlags",
+    "value": 257,
+    "dependsOn": [
+      {
+        "modid": "wildcrafttree"
+      },
+      {
+        "modid": "manualtoolcrafting"
+      },
+      {
+        "modid": "toolsmith",
+        "invert": true
+      }
+    ]
+  },
+  {
+    "file": "game:itemtypes/resource/stick",
+    "op": "add",
+    "path": "/storageFlags",
+    "value": 257,
+    "dependsOn": [
+      {
+        "modid": "wildcrafttree"
+      },
+      {
+        "modid": "manualtoolcrafting"
+      },
+      {
+        "modid": "toolsmith"
+      }
+    ]
+  }
+]

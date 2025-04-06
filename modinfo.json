@@ -1,0 +1,14 @@
+{
+    "modid": "wststickpatch",
+    "name": "WST Stick Patch",
+    "description": "Fixes the incompatibility between Wildcraft: Trees and Shrubs and Salty's Manual Tool Crafting and Toolsmith mods to make sticks usable on both mods.",
+    "type": "content",
+    "side": "server",
+    "authors": [
+        "XurxoMF"
+    ],
+    "version": "1.0.0",
+    "dependencies": {
+        "game": "1.20.0"
+    }
+}
