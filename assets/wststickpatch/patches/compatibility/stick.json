@@ -23,6 +23,7 @@
     "op": "add",
     "path": "/storageFlags",
     "value": 257,
+    "side": "server",
     "dependsOn": [
       {
         "modid": "wildcrafttree"
@@ -41,6 +42,7 @@
     "op": "add",
     "path": "/storageFlags",
     "value": 257,
+    "side": "server",
     "dependsOn": [
       {
         "modid": "wildcrafttree"
